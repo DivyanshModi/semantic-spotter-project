@@ -102,12 +102,9 @@ The LangChain framework revolves around the following building blocks:
   or by combining chains with other components. We are using pulling prompt <b>rlm/rag-promp</b> from langchain hub to
   use in RAG chain.
 
-## 6. System Architecture
 
-![](./images/arch1.png)
-![](./images/arch2.png)
 
-## 7. Prerequisites
+## 6. Prerequisites
 
 - Python 3.7+
 - langchain 0.3.13
@@ -115,7 +112,7 @@ The LangChain framework revolves around the following building blocks:
   the
   OpenAI API.
 
-## 8. Running
+## 7. Running
 
 - Clone the github repository
   ```shell
